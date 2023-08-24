@@ -5,5 +5,5 @@
  ### About
  The goal of this project is to produce stress tests  that cause 
  the maximum switching activity of a circuit.   
- For the production of the stress test the following genetic algorithm is used:  
+ For the production of the stress tests the following genetic algorithm is used:  
  ![Genetic Algorithm](./geneticAlgorithm.png)
